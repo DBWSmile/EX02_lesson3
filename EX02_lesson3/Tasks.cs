@@ -14,7 +14,7 @@ namespace EX02_lesson3
 
         public Tasks( int id,string description, DateTime myDate, Priority Priority)
         {
-            Id = id;
+            Id = 888;
             //Title = title;
             Description = description;
             Date = myDate;
